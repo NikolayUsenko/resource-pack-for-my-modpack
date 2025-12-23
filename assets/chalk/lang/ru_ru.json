@@ -1,0 +1,19 @@
+{
+  "item.chalk.black_chalk": "Чёрный мел",
+  "item.chalk.red_chalk": "Красный мел",
+  "item.chalk.green_chalk": "Зелёный мел",
+  "item.chalk.brown_chalk": "Коричневый мел",
+  "item.chalk.blue_chalk": "Синий мел",
+  "item.chalk.purple_chalk": "Фиолетовый мел",
+  "item.chalk.cyan_chalk": "Бирюзовый мел",
+  "item.chalk.light_gray_chalk": "Светло-серый мел",
+  "item.chalk.gray_chalk": "Серый мел",
+  "item.chalk.pink_chalk": "Розовый мел",
+  "item.chalk.lime_chalk": "Лаймовый мел",
+  "item.chalk.yellow_chalk": "Жёлтый мел",
+  "item.chalk.light_blue_chalk": "Голубой мел",
+  "item.chalk.magenta_chalk": "Пурпурный мел",
+  "item.chalk.orange_chalk": "Оранжевый мел",
+  "item.chalk.white_chalk": "Белый мел",
+  "block.chalk.chalk_mark_block": "Меловая метка"
+}

@@ -1,6 +1,10 @@
 {
 	"block.buzzier_bees.oak_beehive": "Дубовый улей",
-	
+
+	"block.buzzier_bees.warm_monkey_brush_scented_candle": "Свечка из тёплой обезьяньей кисти",
+  "block.buzzier_bees.hot_monkey_brush_scented_candle": "Свечка из обезьяньей кисти",
+  "block.buzzier_bees.scalding_monkey_brush_scented_candle": "Свечка из жгучей обезьяньей кисти",
+
 	"advancements.buzzier_bees.adventure.four_leaf_clover.title": "Сегодня повезло тебе...",
 	"advancements.buzzier_bees.adventure.four_leaf_clover.description": "Найдите четырехлистный клевер",
 	"advancements.buzzier_bees.husbandry.use_honey_apple.title": "По яблоку в день",

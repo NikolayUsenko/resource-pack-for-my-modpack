@@ -1,0 +1,47 @@
+{
+  "block.atmospheric.warm_monkey_brush": "Тёплая обезьянья кисть",
+  "block.atmospheric.scalding_monkey_brush": "Жгучая обезьянья кисть",
+  "block.atmospheric.potted_warm_monkey_brush": "Тёплая обезьянья кисть в горшке",
+  "block.atmospheric.potted_scalding_monkey_brush": "Жгучая обезьянья кисть в горшке",
+
+  "block.atmospheric.rosewood_post": "Палисандровый столб",
+  "block.atmospheric.stripped_rosewood_post": "Обтёсанный палисандровый столб",
+
+  "block.atmospheric.morado_post": "Морадовый столб",
+  "block.atmospheric.stripped_morado_post": "Обтёсанный морадовый столб",
+
+  "block.atmospheric.yucca_post": "Юкковый столб",
+  "block.atmospheric.stripped_yucca_post": "Обтёсанный юкковый столб",
+
+  "block.atmospheric.kousa_post": "Кизиловый столб",
+  "block.atmospheric.stripped_kousa_post": "Обтёсанный кизиловый столб",
+
+  "block.atmospheric.aspen_post": "Осиновый столб",
+  "block.atmospheric.stripped_aspen_post": "Обтёсанный осиновый столб",
+
+  "block.atmospheric.grimwood_post": "Столб из мрачного дерева",
+  "block.atmospheric.stripped_grimwood_post": "Обтёсанный столб из мрачного дерева",
+
+  "block.atmospheric.rosewood_hedge": "Палисандровая живая изгородь",
+  "block.atmospheric.morado_hedge": "Морадовая живая изгородь",
+  "block.atmospheric.flowering_morado_hedge": "Цветущая морадовая живая изгородь",
+  "block.atmospheric.yucca_hedge": "Юкковая живая изгородь",
+  "block.atmospheric.kousa_hedge": "Кизиловая живая изгородь",
+  "block.atmospheric.aspen_hedge": "Осиновая живая изгородь",
+  "block.atmospheric.grimwood_hedge": "Живая изгородь из мрачного дерева",
+
+  "block.atmospheric.arid_sprouts": "Сухие ростки",
+
+  "block.atmospheric.crustose_path": "Тропа лишайника",
+
+  "item.atmospheric.morado_boat": "Морадовая лодка",
+
+  "advancements.atmospheric.husbandry.spit_passionfruit.title": "Маракуйевый орёл",
+	"advancements.atmospheric.husbandry.spit_passionfruit.description": "Нанесите урон врагу семенами маракуйи",
+  "advancements.atmospheric.husbandry.finish_gateau.title": "Подайте им... торта?",
+	"advancements.atmospheric.husbandry.finish_gateau.description": "Полакомьтесь последним кусочком торта из юкки",
+	"advancements.atmospheric.adventure.dunes_pricks.title": "Разрублен и раскромсан",
+	"advancements.atmospheric.adventure.dunes_pricks.description": "Порежьтесь обо всё, об что можно порезаться в дюнах",
+	"advancements.atmospheric.husbandry.put_out_fire.title": "Жертва ожогов",
+	"advancements.atmospheric.husbandry.put_out_fire.description": "Спаситесь от горения при помощи листьев алоэ"
+}
