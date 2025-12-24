@@ -1,0 +1,37 @@
+{
+  "block.neapolitan.mint_ice_cream_block": "Блок мятного мороженого",
+  "block.neapolitan.adzuki_ice_cream_block": "Блок мороженого из адзуки",
+
+  "block.neapolitan.carved_banana_stalk": "Резной стебель бананового дерева",
+
+  "block.neapolitan.adzuki_soil": "Адзуковый грунт",
+  "block.neapolitan.beanstalk": "Бобовый стебель",
+  "block.neapolitan.beanstalk_thorns": "Шипы бобового стебля",
+  "block.neapolitan.mint_basket": "Корзина мяты",
+  "block.neapolitan.adzuki_crate": "Ящик адзуки",
+  "block.neapolitan.roasted_adzuki_crate": "Ящик обжаренной адзуки",
+
+  "item.neapolitan.music_disc_hullabaloo": "Пластинка",
+
+  "item.neapolitan.mint_sprout": "Росток мяты",
+  "item.neapolitan.mint_leaves": "Листья мяты",
+  "item.neapolitan.mint_candies": "Мятные конфеты",
+  "item.neapolitan.mint_ice_cream": "Мятное мороженое",
+  "block.neapolitan.mint_cake": "Мятный торт",
+  "item.neapolitan.mint_milkshake": "Мятный молочный коктейль",
+  "item.neapolitan.mint_chops": "Сырые мятные отбивные",
+  "item.neapolitan.cooked_mint_chops": "Приготовленные мятные отбивные",
+
+  "item.neapolitan.adzuki_beans": "Бобы адзуки",
+  "item.neapolitan.roasted_adzuki_beans": "Обжаренные бобы адзуки",
+  "item.neapolitan.adzuki_bun": "Булочка с бобами адзуки",
+  "item.neapolitan.adzuki_ice_cream": "Мороженое из адзуки",
+  "item.neapolitan.adzuki_stew": "Тушёные бобы адзуки",
+  "block.neapolitan.adzuki_cake": "Торт из адзуки",
+  "item.neapolitan.adzuki_milkshake": "Молочный коктейль с бобами адзуки",
+
+  "item.neapolitan.magic_beans": "Волшебные бобы",
+  "item.neapolitan.mint_chocolate": "Мятный шоколад",
+  "item.neapolitan.strawberry_bean_bonbons": "Клубнично-бобовые бонбоны",
+  "item.neapolitan.adzuki_curry": "Карри с бобами адзуки"
+}

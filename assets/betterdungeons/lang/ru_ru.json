@@ -1,0 +1,17 @@
+{
+  "betterdungeons.small_dungeon.banner.zombie": "Флаг скверны",
+  "betterdungeons.small_dungeon.banner.skeleton": "Флаг мести",
+  "betterdungeons.small_dungeon.banner.spider": "Флаг тревоги",
+  "betterdungeons.advancements.root.title": "YUNG's Better Dungeons",
+  "betterdungeons.advancements.root.description": "Приключения ждут...",
+  "betterdungeons.advancements.all_dungeons.title": "Ветеран подземелий",
+  "betterdungeons.advancements.all_dungeons.description": "Исследуйте все подземелья Better Dungeons!",
+  "betterdungeons.advancements.small_dungeon.title": "Капитальный ремонт",
+  "betterdungeons.advancements.small_dungeon.description": "Найдите улучшенную сокровищницу",
+  "betterdungeons.advancements.skeleton_dungeon.title": "Кость раздора",
+  "betterdungeons.advancements.skeleton_dungeon.description": "Войдите в крепость скелетов",
+  "betterdungeons.advancements.spider_dungeon.title": "Запутаться в паутине",
+  "betterdungeons.advancements.spider_dungeon.description": "Найдите паучью пещеру",
+  "betterdungeons.advancements.zombie_dungeon.title": "С волками жить — по-волчьи выть",
+  "betterdungeons.advancements.zombie_dungeon.description": "Проникните в катакомбы"
+}

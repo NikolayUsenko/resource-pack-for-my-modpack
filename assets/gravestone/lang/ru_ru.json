@@ -1,0 +1,16 @@
+{
+  "entity.gravestone.player_ghost": "Призрак игрока",
+  "message.gravestone.grave_of": "Надгробие %s",
+  "message.gravestone.date_of_death": "Умер(ла) %s",
+  "message.gravestone.item_count": "Хранит %s предмет(ов)",
+  "message.gravestone.copied": "Скопировано %s в буфер обмена",
+  "message.gravestone.restore": "Вернуть предметы",
+  "message.gravestone.restore.replace": "Заменить",
+  "message.gravestone.restore.replace.description": "Удалить все предметы из вашего инвентаря и вернуть те, что были у вас непосредственно перед смертью",
+  "message.gravestone.restore.add": "Добавить",
+  "message.gravestone.restore.add.description": "Возвращает в ваш инвентарь предметы, которые были у вас непосредственно перед смертью",
+  "message.gravestone.death_id": "ID смерти",
+  "message.gravestone.death_id_not_found": "Смерть с ID %s не найдена",
+  "message.gravestone.restore.success": "Предметы %s успешно возвращены",
+  "message.gravestone.death_not_found": "Смерть не найдена"
+}

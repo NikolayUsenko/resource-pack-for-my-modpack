@@ -1,0 +1,12 @@
+{
+  "block.upgrade_aquatic.stripped_driftwood_post": "Обтёсанный плавниковый столб",
+  "block.upgrade_aquatic.driftwood_post": "Плавниковый столб",
+  "block.upgrade_aquatic.stripped_river_post": "Обтёсанный столб из речного дерева",
+  "block.upgrade_aquatic.river_post": "Столб из речного дерева",
+  "block.upgrade_aquatic.river_hedge": "Речная живая изгородь",
+  "item.upgrade_aquatic.perch_spawn_egg": "Яйцо призыва окуня",
+  "item.upgrade_aquatic.perch_bucket": "Окунь в ведре",
+  "item.upgrade_aquatic.perch": "Сырой окунь",
+  "item.upgrade_aquatic.cooked_perch": "Жареный окунь",
+  "entity.upgrade_aquatic.perch": "Окунь"
+}

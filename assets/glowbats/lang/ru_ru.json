@@ -1,0 +1,11 @@
+{
+  "entity.glowbats.glow_bat" : "Мерцающая летучая мышь",
+
+	"item.glowbats.glow_bat_spawn_egg" : "Яйцо призыва мерцающей летучей мыши",
+	"item.glowbats.glow_bat_wing" : "Крыло мерцающей летучей мыши",
+	"item.glowbats.glow_paste" : "Мерцающая паста",
+
+	"block.glowbats.glow_wall_torch" : "Мерцающий факел",
+	"block.glowbats.glow_torch" : "Мерцающий факел",
+	"block.glowbats.glow_lantern" : "Мерцающий фонарь"
+}

@@ -1,0 +1,37 @@
+{
+  "block.environmental.buried_truffle": "Зарытый трюфель",
+  "block.environmental.truffle_crate": "Ящик трюфеля",
+  "item.environmental.truffle": "Трюфель",
+	"item.environmental.truffle_mash": "Трюфельное Пюре",
+	"item.environmental.truffle_pie": "Трюфельный Пирог",
+
+  "block.environmental.willow_hedge": "Ивовая живая изгородь",
+  "block.environmental.cherry_hedge": "Вишнёвая живая изгородь",
+  "block.environmental.blue_wisteria_hedge": "Голубая глициниевая живая изгородь",
+	"block.environmental.pink_wisteria_hedge": "Розовая глициниевая живая изгородь",
+	"block.environmental.purple_wisteria_hedge": "Фиолетовая глициниевая живая изгородь",
+	"block.environmental.white_wisteria_hedge": "Белая глициниевая живая изгородь",
+
+  "block.environmental.willow_post": "Ивовый столб",
+	"block.environmental.stripped_willow_post": "Обтёсанный ивовый столб",
+  "block.environmental.cherry_post": "Вишнёвый столб",
+	"block.environmental.stripped_cherry_post": "Обтёсанный вишнёвый столб",
+  "block.environmental.wisteria_post": "Глициниевый столб",
+	"block.environmental.stripped_wisteria_post": "Обтёсанный глициниевый столб",
+
+  "item.minecraft.potion.effect.vitality": "Зелье прилива здоровья",
+	"item.minecraft.potion.effect.vitality_strong": "Зелье прилива здоровья",
+	"item.minecraft.splash_potion.effect.vitality": "Взрывное зелье прилива здоровья",
+	"item.minecraft.splash_potion.effect.vitality_strong": "Взрывное зелье прилива здоровья",
+	"item.minecraft.lingering_potion.effect.vitality": "Туманное зелье прилива здоровья",
+	"item.minecraft.lingering_potion.effect.vitality_strong": "Туманное зелье прилива здоровья",
+	"item.minecraft.tipped_arrow.effect.vitality": "Стрела прилива здоровья",
+	"item.minecraft.tipped_arrow.effect.vitality_strong": "Стрела прилива здоровья",
+
+  "item.environmental.healer_pouch": "Сумка лекаря",
+
+  "item.environmental.thief_hood.desc": "Монстров убито",
+  "item.environmental.healer_pouch.desc": "Всплески адреналина",
+  "item.environmental.architect_belt.desc": "Блоков размещенно",
+  "item.environmental.wanderer_boots.desc": "Блоков пройдено"
+}
